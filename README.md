@@ -13,7 +13,8 @@ LED　1コ
 ロボットシステム学で上田先生が講義していたデバイスドライバ
 
 ビルド方法
-
+git clone git@github.com:korasyo/Myled.git
+cd 
 
 
 実行方法
